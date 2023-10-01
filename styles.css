@@ -1,29 +1,29 @@
 /*  your css code here. If applicable */
-.lights {
+.container {
 	width: 400px;
 	background-color: gray;
 	border: 4px solid black;
 	border-radius: 40px;
 	padding: 36px 20px;
 }
-#green,
-#yellow,
-#red{
+.green,
+.yellow,
+.red{
 	display: inline-block;
 	width: 100px;
 	height: 100px;
 	border-radius: 50px;
 	margin-left: 45px
 }
-#green {
+.green {
 	background-color: green;
 	
 }
-#yellow {
+.yellow {
 	background-color: yellow;
 	margin: 2px;
 }
-#red {
+.red {
 	background-color: red;
 	margin: 1px;
 }
